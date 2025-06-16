@@ -6,7 +6,7 @@
 
 ## 🌐 サービス URL
 
-**デモサイト**: https://your-username.github.io/my-issue-tracker  
+**デモサイト**: https://tk20211228.github.io/my-issue-tracker/
 **リポジトリ**: https://github.com/your-username/my-issue-tracker
 
 ## 📝 サービス概要
